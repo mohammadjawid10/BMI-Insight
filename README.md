@@ -1,6 +1,6 @@
 # BMI Insight
 
-BMI Wise, your pocket-sized health companion! Calculate your BMI effortlessly, receive personalized insights, and track your wellness journey with ease. Stay motivated, set achievable goals, and gain valuable health knowledge. Download now for a healthier, happier you! 🌟
+BMI Insight, your pocket-sized health companion! Calculate your BMI effortlessly, receive personalized insights, and track your wellness journey with ease. Stay motivated, set achievable goals, and gain valuable health knowledge. Download now for a healthier, happier you! 🌟
 
 ## Description:
 
